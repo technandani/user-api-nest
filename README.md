@@ -10,6 +10,7 @@
 A simple **User CRUD API** built using **NestJS**, **MongoDB**, and **TypeScript**.  
 This project demonstrates a clean, modular backend structure with DTO validation and optional data seeding.
 
+### Demo url: https://user-api-nest.vercel.app/api/users
 ---
 
 ## Features
